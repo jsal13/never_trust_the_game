@@ -2,9 +2,17 @@
 
 A story about Riley the cat and his adventures to pick up pieces of a bed so that he can sail across the ocean and go to sleep in a desert.
 
+## Credits
+
 ## Development
 
 TBD
+
+## Asset Storage
+
+https://drive.google.com/drive/folders/1arkc7A4L2U3hfT_Ljw5yp-52TAYdSnCP?usp=sharing
+
+Contact for edit permissions.
 
 ## Storyboarding
 
