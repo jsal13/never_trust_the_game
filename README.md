@@ -8,6 +8,12 @@ A story about Riley the cat and his adventures to pick up pieces of a bed so tha
 
 TBD
 
+## Project
+
+https://github.com/jsal13/never_trust_the_game/projects/1
+
+Contact to be added as a collab.
+
 ## Asset Storage
 
 https://drive.google.com/drive/folders/1arkc7A4L2U3hfT_Ljw5yp-52TAYdSnCP?usp=sharing
