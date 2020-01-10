@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "04acf090-854c-4aeb-9dea-bd6e54ce6a6f",
+            "Value": {
+                "id": "df3a1d0d-f426-4876-a226-f605b2c41524",
+                "resourcePath": "objects\\obj_game\\obj_game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1e30026d-96dc-4b0d-8e6c-9af7477a610c",
             "Value": {
                 "id": "056e7d55-0d04-4c41-bc6f-1c44a74cea8f",
@@ -55,11 +63,27 @@
             }
         },
         {
+            "Key": "3747bdf0-cee1-4ee2-9c84-59035a584820",
+            "Value": {
+                "id": "2cb661fb-fa22-474e-9cd9-7d43ffd5ccfb",
+                "resourcePath": "fonts\\fnt_title\\fnt_title.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "37edf490-862f-40e4-ad3b-1bef1b3d989e",
             "Value": {
                 "id": "b7f741b3-e491-48b1-8eca-4bb255a53c1c",
                 "resourcePath": "views\\37edf490-862f-40e4-ad3b-1bef1b3d989e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3a7bd238-641b-483e-8770-3ac051ea7294",
+            "Value": {
+                "id": "f7fcf5a3-c7ef-4066-97bc-12040302ccf7",
+                "resourcePath": "sprites\\spr_riley\\spr_riley.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -111,6 +135,46 @@
             }
         },
         {
+            "Key": "9da708a6-21f9-4b83-b7e0-6327bee244c4",
+            "Value": {
+                "id": "3aaf1909-20c1-4def-b69f-767b6c57dd90",
+                "resourcePath": "views\\9da708a6-21f9-4b83-b7e0-6327bee244c4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a05773ea-750b-4a7a-8d33-6ef2cccbc782",
+            "Value": {
+                "id": "7f827e6b-9edf-4c41-a2b1-992597ac6d45",
+                "resourcePath": "sounds\\snd_bkgd_gun_zone\\snd_bkgd_gun_zone.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a61ff0dc-d29c-4eee-b887-99cabc5374b4",
+            "Value": {
+                "id": "6ae3ba01-d480-418f-a1fd-bed27693c170",
+                "resourcePath": "sounds\\snd_bkgd_title\\snd_bkgd_title.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a9155475-e0ec-42fd-bfd2-73cd49ac9fce",
+            "Value": {
+                "id": "07382526-d4bc-4bd7-bdf3-8b5976777250",
+                "resourcePath": "views\\a9155475-e0ec-42fd-bfd2-73cd49ac9fce.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ad382963-0f26-4e95-915a-5ce132d34850",
+            "Value": {
+                "id": "32e16969-ca93-42f9-b6a7-feabf1b9b1e9",
+                "resourcePath": "rooms\\rm_test\\rm_test.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b150b5ab-86cd-4618-bd90-99f9c1d30662",
             "Value": {
                 "id": "50c04821-6110-4f1d-8e5b-c51a606d7548",
@@ -146,7 +210,7 @@
             "Key": "e23542ec-10c6-41de-bc8b-2fdffdf08dc8",
             "Value": {
                 "id": "18edb0cd-02ef-4375-84b2-0d52b83f3734",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -156,6 +220,14 @@
                 "id": "4d77f142-8d60-43da-b8ca-ad792a9388b7",
                 "resourcePath": "views\\e689d2d3-8b68-41e1-b39e-45c75e9a072f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f1e7c76e-b9e1-47a4-a5cc-f6e5a1112038",
+            "Value": {
+                "id": "d1e78ff1-225e-407a-b375-6b8dfc52818e",
+                "resourcePath": "objects\\obj_riley\\obj_riley.yy",
+                "resourceType": "GMObject"
             }
         },
         {
