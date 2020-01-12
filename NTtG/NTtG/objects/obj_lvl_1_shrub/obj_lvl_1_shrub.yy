@@ -1,19 +1,10 @@
 {
-    "id": "f1e7c76e-b9e1-47a4-a5cc-f6e5a1112038",
+    "id": "8ddb8d85-7e6e-4b86-9195-882a64ddd833",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_riley",
+    "name": "obj_lvl_1_shrub",
     "eventList": [
-        {
-            "id": "584e398d-c764-4eb6-92fd-3abd3490cf8c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "f1e7c76e-b9e1-47a4-a5cc-f6e5a1112038"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3a7bd238-641b-483e-8770-3ac051ea7294",
+    "spriteId": "a7e5ebc0-ad46-4535-9f21-c77c781acfd9",
     "visible": true
 }
