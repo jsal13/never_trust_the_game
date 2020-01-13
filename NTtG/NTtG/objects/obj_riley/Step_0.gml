@@ -1,21 +1,39 @@
-STEP_SIZE = 2
-MOVABLE_ROOMS = ds_list_create()
-ds_list_add(MOVABLE_ROOMS, rm_test)
-ds_list_add(MOVABLE_ROOMS, rm_lvl_1)
-//ds_list_add(MOVABLE_ROOMS, rm_lvl_2)
-//ds_list_add(MOVABLE_ROOMS, rm_lvl_3)
-//ds_list_add(MOVABLE_ROOMS, rm_lvl_4)
-//ds_list_add(MOVABLE_ROOMS, rm_lvl_5)
-//ds_list_add(MOVABLE_ROOMS, rm_lvl_6)
+key_right = keyboard_check(ord("D"))
+key_left = keyboard_check(ord("A"))
+key_jump = keyboard_check_pressed(ord("S"))
+
+move = key_right - key_left
+hsp = move * move_speed
+vsp += grav
+
+if (place_meeting(x, y + 1, obj_wall)) { // are we on the floor?
+	vsp = key_jump * (-jump_speed)
+}
+
+// Collision system
+// Horizontal
+if (place_meeting(x + hsp, y, obj_wall)) { // are we about to hit something?
+	while (!place_meeting(x + sign(hsp), y, obj_wall)) {  
+		// While we are "pretty close" to the wall, but not exactly up to it,
+		// move the sprite up to it.
+		x += sign(hsp)
+	}
+	hsp = 0
+	
+	// wall-jump
+	if (key_jump) {
+		vsp = -jump_speed	
+	}
+}
+
+// Vertical
+if (place_meeting(x, y + vsp, obj_wall)) {
+	while (!place_meeting(x, y + sign(vsp), obj_wall)) {
+		y += sign(vsp)
+	}
+	vsp = 0
+}
 
 
-if (ds_list_find_index(MOVABLE_ROOMS, room) == -1) { }
-else { // if we're movable
-	if (keyboard_check(vk_right)) { x += STEP_SIZE }
-	if (keyboard_check(vk_left)) { x -= STEP_SIZE }
-	if (keyboard_check(vk_down)) { y += STEP_SIZE }
-	if (keyboard_check(vk_up)) { y -= STEP_SIZE }
-};
-
-// TODO: look up dagger.
-
+x += hsp
+y += vsp
