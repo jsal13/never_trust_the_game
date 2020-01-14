@@ -4,5 +4,11 @@ hsp = 0
 vsp = 0
 jump_speed = 8
 move_speed = 4
+wall_jump_vsp = -7
+wall_jump_hsp = 7
 
-vsp = clamp(vsp, -7, 10)
+on_ground = 0
+on_wall = 0
+
+riley_got_sail = 0
+end_level_timer = 0

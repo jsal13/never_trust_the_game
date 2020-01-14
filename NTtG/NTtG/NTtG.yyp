@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "05cc221e-ed31-458a-a6a3-59fb3183ff16",
+            "Value": {
+                "id": "9de14ae4-874c-4e2f-912d-9592e95fbbba",
+                "resourcePath": "sprites\\spr_sail\\spr_sail.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1e30026d-96dc-4b0d-8e6c-9af7477a610c",
             "Value": {
                 "id": "056e7d55-0d04-4c41-bc6f-1c44a74cea8f",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "77f7e564-abfc-4c98-8300-342e46568d8b",
+            "Value": {
+                "id": "0bddc20d-85bd-4bf1-9f3e-e952aa06b6f4",
+                "resourcePath": "objects\\obj_sail\\obj_sail.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "817e0f62-f8d6-4b09-84d3-8bf46532988f",
             "Value": {
                 "id": "019a4466-3f61-4fa9-acca-adc6c8013145",
@@ -186,7 +202,7 @@
             "Key": "ad382963-0f26-4e95-915a-5ce132d34850",
             "Value": {
                 "id": "32e16969-ca93-42f9-b6a7-feabf1b9b1e9",
-                "resourcePath": "rooms\\rm_test\\rm_test.yy",
+                "resourcePath": "rooms\\rm_forest\\rm_forest.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -244,6 +260,14 @@
                 "id": "d1e78ff1-225e-407a-b375-6b8dfc52818e",
                 "resourcePath": "objects\\obj_riley\\obj_riley.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f94c8c61-1135-4012-855a-484527686b19",
+            "Value": {
+                "id": "ec0020a8-098c-4b9f-87e5-efcd82dda860",
+                "resourcePath": "rooms\\rm_gun_zone\\rm_gun_zone.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
