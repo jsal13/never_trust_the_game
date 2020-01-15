@@ -10,5 +10,5 @@ wall_jump_hsp = 7
 on_ground = 0
 on_wall = 0
 
-riley_got_sail = 0
+riley_got_game_obj = 0
 end_level_timer = 0

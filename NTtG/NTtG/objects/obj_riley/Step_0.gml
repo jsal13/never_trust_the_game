@@ -4,6 +4,9 @@ key_jump = keyboard_check_pressed(ord("S"))
 	
 move = key_right - key_left
 
+if (move < 0 && image_xscale > 0) { image_xscale = -1 }
+if (move > 0 && image_xscale < 0) { image_xscale = 1 } // turn the sprite around
+
 if (abs(hsp) > 0) {
   hsp -= sign(hsp)	
 }
@@ -47,8 +50,8 @@ hsp = clamp(hsp, -7, 7)
 x += hsp
 y += vsp
 
-// Level End
-if (riley_got_sail && room == rm_forest) {
+// Level End -- TODO: bad, refactor this.
+if (riley_got_game_obj) {
 	end_level_timer += 1
 }
 
@@ -56,6 +59,10 @@ if (end_level_timer > (60 * 2)) {
 	switch (room) {
 		case rm_forest:
 			room_goto(rm_gun_zone)
+			end_level_timer = 0
+			break
+		case rm_gun_zone:
+			room_goto(rm_tundra)
 			end_level_timer = 0
 			break
 	}
