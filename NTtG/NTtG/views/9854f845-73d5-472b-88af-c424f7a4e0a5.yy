@@ -6,7 +6,8 @@
     "children": [
         "77f7e564-abfc-4c98-8300-342e46568d8b",
         "f6528d22-5297-41f0-a0be-cde5e11b8b47",
-        "c8e3122a-4f7d-4579-bf10-94f6b5ddd0db"
+        "c8e3122a-4f7d-4579-bf10-94f6b5ddd0db",
+        "359e2e1f-b59c-4690-836b-93963afb2fd9"
     ],
     "filterType": "GMObject",
     "folderName": "game_items",

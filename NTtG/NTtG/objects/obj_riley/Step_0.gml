@@ -62,6 +62,10 @@ if (end_level_timer > (60 * 2)) {
 			end_level_timer = 0
 			break
 		case rm_gun_zone:
+			room_goto(rm_clouds)
+			end_level_timer = 0
+			break
+		case rm_clouds:
 			room_goto(rm_tundra)
 			end_level_timer = 0
 			break
