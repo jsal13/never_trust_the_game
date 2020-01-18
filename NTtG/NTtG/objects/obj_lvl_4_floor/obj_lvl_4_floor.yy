@@ -1,8 +1,8 @@
 {
-    "id": "6c3be59f-8136-4c5a-97ac-9f81925a27c2",
+    "id": "8f1af9e8-fb39-479d-9ec4-7cd93a6f2907",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_lvl_3_side_wall",
+    "name": "obj_lvl_4_floor",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "63791f95-4d8b-4fe0-9ccf-5c5aabbf38fc",
+    "spriteId": "9671df0f-c61c-435b-8219-f45fa57d29ee",
     "visible": true
 }

@@ -2,7 +2,7 @@
     "id": "63791f95-4d8b-4fe0-9ccf-5c5aabbf38fc",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_lvl_3_side_wall",
+    "name": "spr_lvl_4_wall",
     "For3D": false,
     "HTile": false,
     "VTile": false,
