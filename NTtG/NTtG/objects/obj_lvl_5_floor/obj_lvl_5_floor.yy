@@ -1,14 +1,14 @@
 {
-    "id": "f1e7c76e-b9e1-47a4-a5cc-f6e5a1112038",
+    "id": "1502df00-d52d-4a2b-bcb2-b1c6cb9c7f1a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_riley",
+    "name": "obj_lvl_5_floor",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "2336cb06-cd0f-4b7a-82b7-706e450fb893",
+    "parentObjectId": "73941d62-8cd0-4cb7-8f5d-7bac3d0c10d7",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3a7bd238-641b-483e-8770-3ac051ea7294",
+    "spriteId": "ddd803ab-8740-4eb8-81b1-ee43cf344246",
     "visible": true
 }

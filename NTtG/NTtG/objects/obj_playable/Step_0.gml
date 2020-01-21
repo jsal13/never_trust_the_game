@@ -73,5 +73,9 @@ if (end_level_timer > (60 * 2)) {
 			room_goto(rm_sea)
 			end_level_timer = 0
 			break
+		case rm_sea:
+			room_goto(rm_desert)
+			end_level_timer = 0
+			break
 	}
 }

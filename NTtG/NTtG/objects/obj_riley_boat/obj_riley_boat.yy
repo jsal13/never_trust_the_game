@@ -1,23 +1,23 @@
 {
-    "id": "c8e3122a-4f7d-4579-bf10-94f6b5ddd0db",
+    "id": "7025d481-863b-4089-b680-4ab49e1a9b96",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_game_obj",
+    "name": "obj_riley_boat",
     "eventList": [
         {
-            "id": "92255677-dac4-4895-84ac-4ee6c545b5d1",
+            "id": "0ffdf777-c697-4a8b-a94b-bb79ec5c71fa",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "2336cb06-cd0f-4b7a-82b7-706e450fb893",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "c8e3122a-4f7d-4579-bf10-94f6b5ddd0db"
+            "eventtype": 3,
+            "m_owner": "7025d481-863b-4089-b680-4ab49e1a9b96"
         }
     ],
-    "maskSpriteId": "ccd1905e-14a1-4a74-95ca-6f8cc7b38ec2",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "2336cb06-cd0f-4b7a-82b7-706e450fb893",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": false
+    "spriteId": "abf4138f-e132-401c-a1fb-b0a7b2ec495d",
+    "visible": true
 }

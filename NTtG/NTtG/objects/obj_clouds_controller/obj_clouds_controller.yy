@@ -1,21 +1,21 @@
 {
-    "id": "c8e3122a-4f7d-4579-bf10-94f6b5ddd0db",
+    "id": "3f0fce46-7d6a-48e9-b5c1-e89c9fe32215",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_game_obj",
+    "name": "obj_clouds_controller",
     "eventList": [
         {
-            "id": "92255677-dac4-4895-84ac-4ee6c545b5d1",
+            "id": "5efc95b7-4e66-4ba5-a225-234d31d71fe8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "2336cb06-cd0f-4b7a-82b7-706e450fb893",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "c8e3122a-4f7d-4579-bf10-94f6b5ddd0db"
+            "eventtype": 0,
+            "m_owner": "3f0fce46-7d6a-48e9-b5c1-e89c9fe32215"
         }
     ],
-    "maskSpriteId": "ccd1905e-14a1-4a74-95ca-6f8cc7b38ec2",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -34,5 +34,5 @@
     "properties": null,
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": false
+    "visible": true
 }

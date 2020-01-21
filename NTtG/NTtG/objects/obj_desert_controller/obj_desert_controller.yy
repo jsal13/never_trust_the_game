@@ -1,21 +1,21 @@
 {
-    "id": "c8e3122a-4f7d-4579-bf10-94f6b5ddd0db",
+    "id": "31966040-a7e7-4681-9bc5-bc0a7c7c0c35",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_game_obj",
+    "name": "obj_desert_controller",
     "eventList": [
         {
-            "id": "92255677-dac4-4895-84ac-4ee6c545b5d1",
+            "id": "177f0d59-c54e-46cf-b044-c029ea09d1d2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "2336cb06-cd0f-4b7a-82b7-706e450fb893",
+            "collisionObjectId": "49bf58da-a01f-41a5-b6ba-f2bda61ae206",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "c8e3122a-4f7d-4579-bf10-94f6b5ddd0db"
+            "m_owner": "31966040-a7e7-4681-9bc5-bc0a7c7c0c35"
         }
     ],
-    "maskSpriteId": "ccd1905e-14a1-4a74-95ca-6f8cc7b38ec2",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "24843143-2908-40e6-8340-b97a284e17e4",
     "visible": false
 }
