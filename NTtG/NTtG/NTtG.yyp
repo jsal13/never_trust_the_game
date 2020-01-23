@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "16aab2ad-f1ae-467a-b52a-9522d48d1a05",
+            "Value": {
+                "id": "99801ac6-56f4-4b77-8ceb-2cc0eb59ab73",
+                "resourcePath": "sounds\\snd_bkgd_sea\\snd_bkgd_sea.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1dd8aeb2-3874-4760-969e-4ea8210aa761",
             "Value": {
                 "id": "88e8fecc-8b2a-4436-b9af-26366884bea4",
@@ -271,6 +279,14 @@
             }
         },
         {
+            "Key": "5a755a73-38ec-4ce6-b334-fc5f954a0ea0",
+            "Value": {
+                "id": "182557f3-2b9e-42ab-86b7-d30539cbbb3f",
+                "resourcePath": "sounds\\snd_bkgd_desert\\snd_bkgd_desert.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5f27db9b-6b52-44c8-94d6-7eae038b81c2",
             "Value": {
                 "id": "57553a63-d24e-4854-baab-1b829fe44515",
@@ -383,6 +399,14 @@
             }
         },
         {
+            "Key": "86753fad-4f2e-4764-a12c-8bb01cf9dab5",
+            "Value": {
+                "id": "177fe7a0-aad7-453b-bf59-b70052df2547",
+                "resourcePath": "sounds\\snd_bkgd_tundra\\snd_bkgd_tundra.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "89d1c407-a554-4d39-bdd8-61e0dc9350a2",
             "Value": {
                 "id": "78206ab0-a177-48ae-ad01-72c600e36c96",
@@ -404,6 +428,14 @@
                 "id": "18750ad8-d0f3-4d76-b160-d1b0691cfcbf",
                 "resourcePath": "objects\\obj_lvl_4_floor\\obj_lvl_4_floor.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "946d03fc-5e21-412a-a380-ce22a3c0af57",
+            "Value": {
+                "id": "7cfdd80e-08df-4a20-b5a3-010217d60998",
+                "resourcePath": "sounds\\snd_bkgd_clouds\\snd_bkgd_clouds.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -540,6 +572,14 @@
                 "id": "5ce51b3e-6632-4ba1-8123-f40b71185a32",
                 "resourcePath": "rooms\\rm_clouds\\rm_clouds.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c1275507-b32a-461e-8298-9ab4eb8542d4",
+            "Value": {
+                "id": "8d4273dc-450b-43cf-ac93-8ba6ca6515e5",
+                "resourcePath": "sounds\\snd_bkgd_forest\\snd_bkgd_forest.yy",
+                "resourceType": "GMSound"
             }
         },
         {
