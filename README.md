@@ -4,9 +4,13 @@ A story about Riley the cat and his adventures to pick up pieces of a bed so tha
 
 ## Credits
 
-## Development
+Development: James Salvatore
 
-TBD
+Good Sprites (Riley): Aborshy
+Terrible Sprites: James Salvatore
+
+Annoying Forest Music: James Salvatore
+Good Music (all other levels): Aborshy
 
 ## Project
 
