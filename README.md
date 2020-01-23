@@ -7,9 +7,11 @@ A story about Riley the cat and his adventures to pick up pieces of a bed so tha
 Development: James Salvatore
 
 Good Sprites (Riley): Aborshy
+
 Terrible Sprites: James Salvatore
 
 Annoying Forest Music: James Salvatore
+
 Good Music (all other levels): Aborshy
 
 ## Project
